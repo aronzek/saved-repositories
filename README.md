@@ -1,2 +1,22 @@
-# savedRepos
-Repositories worth checking out!
+# Repositories
+
+- https://github.com/ReactNativeNews/React-Native-Apps
+- https://github.com/freeCodeCamp/freeCodeCamp
+- https://github.com/jaywcjlove/awesome-mac
+- https://github.com/dkhamsing/open-source-ios-apps
+- https://github.com/josephmisiti/awesome-machine-learning
+- https://github.com/prakhar1989/awesome-courses
+- https://github.com/thibmaek/awesome-raspberry-pi
+- https://github.com/jbhuang0604/awesome-computer-vision
+- https://github.com/mhinz/vim-galore
+- https://github.com/unicodeveloper/awesome-opensource-apps
+- https://github.com/tuvtran/project-based-learning
+- https://github.com/aws-samples/aws-mobile-react-sample
+- https://github.com/rasbt/python-machine-learning-book
+- https://github.com/csula/cs1222-fall-2017
+- https://github.com/kamranahmedse/developer-roadmap
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/jacobs-hack/local-hack-day
+- https://github.com/hacktoolkit/hacktoolkit
+- https://github.com/vrdmr/CS273a-Introduction-to-Machine-Learning
+- https://github.com/BinRoot/Haskell-Lectures
