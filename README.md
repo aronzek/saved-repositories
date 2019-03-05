@@ -20,3 +20,4 @@
 - https://github.com/hacktoolkit/hacktoolkit
 - https://github.com/vrdmr/CS273a-Introduction-to-Machine-Learning
 - https://github.com/BinRoot/Haskell-Lectures
+- https://github.com/TheAlgorithms/Python
